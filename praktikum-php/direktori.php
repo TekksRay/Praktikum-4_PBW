@@ -1,0 +1,10 @@
+/praktikum-php
+    /classes
+        Vehicle.php
+        Car.php
+        Motorcycle.php
+    /traits
+        EngineTrait.php
+    /interfaces
+        EngineInterface.php
+    index.php
